@@ -1,3 +1,3 @@
-export default function ingredientReducer() {
+export default function ingredientReducer(state, action) {
 
 }
